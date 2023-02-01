@@ -1,0 +1,16 @@
+C:\Users\Puja\source\repos\AbstractImplementation\bin\Debug\net5.0\AbstractImplementation.exe
+C:\Users\Puja\source\repos\AbstractImplementation\bin\Debug\net5.0\AbstractImplementation.deps.json
+C:\Users\Puja\source\repos\AbstractImplementation\bin\Debug\net5.0\AbstractImplementation.runtimeconfig.json
+C:\Users\Puja\source\repos\AbstractImplementation\bin\Debug\net5.0\AbstractImplementation.runtimeconfig.dev.json
+C:\Users\Puja\source\repos\AbstractImplementation\bin\Debug\net5.0\AbstractImplementation.dll
+C:\Users\Puja\source\repos\AbstractImplementation\bin\Debug\net5.0\ref\AbstractImplementation.dll
+C:\Users\Puja\source\repos\AbstractImplementation\bin\Debug\net5.0\AbstractImplementation.pdb
+C:\Users\Puja\source\repos\AbstractImplementation\obj\Debug\net5.0\AbstractImplementation.csproj.AssemblyReference.cache
+C:\Users\Puja\source\repos\AbstractImplementation\obj\Debug\net5.0\AbstractImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puja\source\repos\AbstractImplementation\obj\Debug\net5.0\AbstractImplementation.AssemblyInfoInputs.cache
+C:\Users\Puja\source\repos\AbstractImplementation\obj\Debug\net5.0\AbstractImplementation.AssemblyInfo.cs
+C:\Users\Puja\source\repos\AbstractImplementation\obj\Debug\net5.0\AbstractImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Puja\source\repos\AbstractImplementation\obj\Debug\net5.0\AbstractImplementation.dll
+C:\Users\Puja\source\repos\AbstractImplementation\obj\Debug\net5.0\ref\AbstractImplementation.dll
+C:\Users\Puja\source\repos\AbstractImplementation\obj\Debug\net5.0\AbstractImplementation.pdb
+C:\Users\Puja\source\repos\AbstractImplementation\obj\Debug\net5.0\AbstractImplementation.genruntimeconfig.cache
